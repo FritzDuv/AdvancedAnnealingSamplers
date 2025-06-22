@@ -1,4 +1,4 @@
-# AdvancedAnnealingSamplers
+# Advanced Annealing Samplers
 A survey of advanced annealing samplers for distributions that are difficult to sample from conventionally and benchmarks of these samplers against the performance of parallel chains of NUTS (No-U-Turn Sampler). Work completed as the final research project for Bayesian Modeling and Inference (6.7830). 
 
 Credit to the authors of [Annealing Flow Generative Models Towards Sampling High-Dimensional and Multi-Modal Distributions](https://arxiv.org/abs/2409.20547)
