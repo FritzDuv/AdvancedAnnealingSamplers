@@ -4,7 +4,9 @@ A survey of advanced annealing samplers for distributions that are difficult to 
 Credit to the authors of [Annealing Flow Generative Models Towards Sampling High-Dimensional and Multi-Modal Distributions](https://arxiv.org/abs/2409.20547)
 ## Distributions tested:
 ### 6-Mode Radially Distributed 2D Gaussian Mixture Model:
-<img width="468" alt="6GMM" src="https://github.com/user-attachments/assets/f4d2aeca-d526-42f6-89b8-9ccbef4c1406" />
+![6GMM](https://github.com/user-attachments/assets/f88213e4-288f-49e0-9b3c-ee195bd1f64b)
+
 
 ### Truncated 2D Gaussian Distribution of truncation radius 6:
-<img width="472" alt="Trunc" src="https://github.com/user-attachments/assets/76e75d7f-a3b8-463e-9352-757785044872" />
+![Trunc](https://github.com/user-attachments/assets/f752d2dd-b65a-43a7-878b-af92021fbc10)
+
